@@ -1,6 +1,6 @@
 This is the first website our team has made 🥲.
 This is a photography portfolio website📸 .
-we took a help from various sources like- our mentor Mr Shivansh Prasad Sir  , Github ![GithubCatGIF](https://github.com/user-attachments/assets/7cf378d1-87e1-467b-82bc-945a510fcbaf)
+we took a help from various sources like- our mentor Mr Shivansh Prasad Sir  , Github
 , youtube etc.
 
 We have used  free stock images from pexel❤️👌 .
